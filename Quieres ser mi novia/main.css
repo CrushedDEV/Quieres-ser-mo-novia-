@@ -1,0 +1,14 @@
+body{
+background: url(corazon.png);
+background-color: rgb(252, 135, 242);
+background-position-x: center;
+background-size: 50%;
+background-repeat:no-repeat ;
+text-align: center;
+
+}
+
+h1{
+color: white;
+height: 50%;
+}
